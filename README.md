@@ -17,7 +17,7 @@ Este repositorio fue creado con fines académicos para la materia: Desarrollo de
 - Planilla de inscripción al grupo en la materia:  
   https://docs.google.com/spreadsheets/d/1bwMvXiMQE0KD5C8XG9Fa_ETGNDem_F8NM2OORQkRV_M/edit?gid=757041742#gid=757041742  
 
-- Documento compartido: https://docs.google.com/document/d/1hJK8f0kRrA92iCNzBDb7HGZVlnktv7iR86fRXSEZhbc/edit?tab=t.0
+- Documento compartido: [[https://docs.google.com/document/d/1hJK8f0kRrA92iCNzBDb7HGZVlnktv7iR86fRXSEZhbc/edit?tab=t.0](https://docs.google.com/document/d/14oEq1uyaDlDado1QQP_IsSgOW05hPG2dXR0p3vIHoBM/edit?tab=t.0)](https://docs.google.com/document/d/14oEq1uyaDlDado1QQP_IsSgOW05hPG2dXR0p3vIHoBM/edit?tab=t.0)
 ---
 
 📌 Este proyecto se utiliza exclusivamente en el contexto de la cursada Desarrollo de Aplicaciones para Dispositivos Moviles
