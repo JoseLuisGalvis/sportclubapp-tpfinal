@@ -10,7 +10,8 @@ Este repositorio fue creado con fines académicos para la materia: Desarrollo de
 - Jose Luis Galvis  
 - Marcelo Agustin Pereira  
 - Maria Emilia Sosa Tomada  
-- Javier Churquina  
+- Javier Churquina
+- Juan Pablo Duarte
 
 ## 🔗 Links
 
