@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportClubApp</string>
+    <string name="action_toggle_theme">Modo oscuro/claro</string>
+    <string name="nav_back">Volver</string>
+    <string name="error_connection">No se pudo conectar. Verificá tu conexión.</string>
+    <string name="loading">Cargando…</string>
+    <string name="confirm_yes">Confirmar</string>
+    <string name="confirm_no">Cancelar</string>
+</resources>
